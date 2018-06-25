@@ -1,2 +1,7 @@
 # Micro-npm-pkgs-Reading
-Source code reading notes for micro-npm-packages
+
+Notes for some micro npm packages source code reading
+
+Packages based on belowing repo:
+
+https://github.com/parro-it/awesome-micro-npm-packages
