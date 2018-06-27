@@ -12,7 +12,7 @@ Done List:
 - [x] is-number
 - [x] array-slice
 - [x] array-first
-- [ ] array-last
-- [ ] array-flatten
-- [ ] array-range
+- [x] array-last
+- [x] array-flatten
+- [x] array-range
 - [ ] arr-diff
