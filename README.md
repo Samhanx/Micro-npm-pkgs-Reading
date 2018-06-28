@@ -15,4 +15,4 @@ Done List:
 - [x] array-last
 - [x] array-flatten
 - [x] array-range
-- [ ] arr-diff
+- [x] arr-diff
