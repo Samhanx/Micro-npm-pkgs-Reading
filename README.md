@@ -16,3 +16,4 @@ Done List:
 - [x] array-flatten
 - [x] array-range
 - [x] arr-diff
+- [x] filled-array
