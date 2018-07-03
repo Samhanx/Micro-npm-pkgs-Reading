@@ -17,6 +17,6 @@ Done List:
 - [x] array-range
 - [x] arr-diff
 - [x] filled-array
-- [ ] map-obj
+- [x] map-obj
 - [ ] map-array
 - [ ] in-array
