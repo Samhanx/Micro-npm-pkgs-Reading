@@ -8,8 +8,8 @@ https://github.com/parro-it/awesome-micro-npm-packages
 
 Done List:
 
+### Array
 - [x] is-sorted
-- [x] is-number
 - [x] array-slice
 - [x] array-first
 - [x] array-last
@@ -17,6 +17,11 @@ Done List:
 - [x] array-range
 - [x] arr-diff
 - [x] filled-array
-- [x] map-obj
 - [ ] map-array
 - [ ] in-array
+
+### Object
+- [x] map-obj
+
+### Number
+- [x] is-number
