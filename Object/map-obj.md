@@ -1,5 +1,7 @@
 ## map-obj
 
+对对象的每一个键值对进行 map 处理，mapper 接受三个参数，分别是当前键值对的 key, value 以及 map 的对象
+
 ```js
 'use strict';
 
@@ -35,7 +37,8 @@ module.exports = function mapObj(obj, fn, opts, seen) {
 
 	for (const key of Object.keys(obj)) {
 		const val = obj[key];
-		const res = fn(key, val, obj);
+		const res = fn(key, val, obj); // 这里确定了 mapper 的实参
+		// 要求 mapper function 返回一个两个元素的数组，比如 [key, val] 或者 [val, key] 如此下面取两个下标才有值
 		let newVal = res[1];
 
 		if (opts.deep && isObject(newVal)) {
@@ -48,7 +51,6 @@ module.exports = function mapObj(obj, fn, opts, seen) {
 		}
 
 		target[res[0]] = newVal;
-		// 要求 mapper function 返回一个 [key, val] 的数组
 	}
 
 	return target;
