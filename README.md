@@ -19,6 +19,9 @@ Done List:
 - [x] filled-array
 - [x] map-array
 - [x] in-array
+- [ ] unordered-array-remove
+- [ ] swap-array
+- [ ] mirrarray
 
 ### Object
 - [x] map-obj
