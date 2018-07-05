@@ -20,7 +20,7 @@ Done List:
 - [x] map-array
 - [x] in-array
 - [x] unordered-array-remove
-- [ ] swap-array
+- [x] swap-array
 - [ ] mirrarray
 
 ### Object
