@@ -2,7 +2,7 @@
 
 把一个对象的 key, value 组装转换为一个数组
 
-用法一看就明白
+用法一看就明白，跟 Array.prototype.map 不同，是对一个对象 map 然后返回数组
 
 ```js
 const mapArray = require('map-array');
