@@ -30,3 +30,6 @@ Done List:
 
 ### Number
 - [x] is-number
+
+### Type
+- [x] kind-of
