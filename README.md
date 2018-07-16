@@ -13,7 +13,7 @@ Done List:
 - [x] array-slice
 - [x] array-first
 - [x] array-last
-- [x] array-flatten
+- [x] arr-flatten
 - [x] array-range
 - [x] arr-diff
 - [x] filled-array
