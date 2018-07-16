@@ -26,6 +26,7 @@ Done List:
 ### Object
 - [x] map-obj
 - [x] for-in
+- [x] for-own
 
 ### Number
 - [x] is-number
