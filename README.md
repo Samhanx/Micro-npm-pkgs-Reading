@@ -22,6 +22,7 @@ Done List:
 - [x] unordered-array-remove
 - [x] swap-array
 - [x] mirrarray
+- [x] array.chunk
 
 ### Object
 - [x] map-obj
