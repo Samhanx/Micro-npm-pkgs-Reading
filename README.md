@@ -36,6 +36,8 @@ Done List:
 - [ ] to-camel-case
 - [ ] to-capital-case
 - [ ] to-dot-case
+- [ ] to-snake-case
+- [ ] to-constant-case
 
 ### Number
 - [x] is-number
