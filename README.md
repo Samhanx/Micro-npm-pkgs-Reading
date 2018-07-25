@@ -31,6 +31,11 @@ Done List:
 
 ### String
 - [x] decamelize
+- [ ] to-no-case
+- [ ] to-space-case
+- [ ] to-camel-case
+- [ ] to-capital-case
+- [ ] to-dot-case
 
 ### Number
 - [x] is-number
