@@ -29,6 +29,9 @@ Done List:
 - [x] for-in
 - [x] for-own
 
+### String
+- [x] decamelize
+
 ### Number
 - [x] is-number
 
