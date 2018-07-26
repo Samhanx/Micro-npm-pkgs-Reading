@@ -31,6 +31,7 @@ Done List:
 
 ### String
 - [x] decamelize
+- [x] rtrim
 - [ ] to-no-case
 - [ ] to-space-case
 - [ ] to-camel-case
