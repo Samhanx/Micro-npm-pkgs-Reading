@@ -39,6 +39,7 @@ Done List:
 - [ ] to-dot-case
 - [ ] to-snake-case
 - [ ] to-constant-case
+- [ ] slice
 
 ### Number
 - [x] is-number
