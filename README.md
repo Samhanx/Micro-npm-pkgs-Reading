@@ -33,7 +33,7 @@ Done List:
 - [x] decamelize
 - [x] rtrim
 - [x] to-no-case
-- [ ] to-space-case
+- [x] to-space-case
 - [ ] to-camel-case
 - [ ] to-capital-case
 - [ ] to-dot-case
