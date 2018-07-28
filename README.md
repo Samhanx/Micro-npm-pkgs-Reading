@@ -32,7 +32,7 @@ Done List:
 ### String
 - [x] decamelize
 - [x] rtrim
-- [ ] to-no-case
+- [x] to-no-case
 - [ ] to-space-case
 - [ ] to-camel-case
 - [ ] to-capital-case
