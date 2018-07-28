@@ -35,7 +35,7 @@ Done List:
 - [x] to-no-case
 - [x] to-space-case
 - [x] to-camel-case
-- [ ] to-capital-case
+- [x] to-capital-case
 - [ ] to-dot-case
 - [ ] to-snake-case
 - [ ] to-constant-case
