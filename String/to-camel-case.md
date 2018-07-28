@@ -19,7 +19,7 @@ module.exports = toCamelCase
  */
 
 function toCamelCase(string) {
-  // 在  to-space-case 基础上，匹配空格和一个字母或数字，然后替换为大写
+  // 在  to-space-case 基础上，匹配空白符和一个字母或数字，然后替换为大写
   return space(string).replace(/\s(\w)/g, function (matches, letter) {
     return letter.toUpperCase()
   })
