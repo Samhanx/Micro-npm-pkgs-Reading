@@ -34,7 +34,7 @@ Done List:
 - [x] rtrim
 - [x] to-no-case
 - [x] to-space-case
-- [ ] to-camel-case
+- [x] to-camel-case
 - [ ] to-capital-case
 - [ ] to-dot-case
 - [ ] to-snake-case
